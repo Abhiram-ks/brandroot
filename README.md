@@ -1,16 +1,19 @@
-# flutter_project_1
+Brandroot – Flutter Mini Project
 
-A new Flutter project.
+- Project Overview
+Brandroot is my first mini project built using Flutter and Dart, marking the beginning of my mobile app development journey. It showcases the fundamentals of app development such as CRUD operations, authentication, and local storage, all wrapped in a custom-designed UI.
+The app uses SharedPreferences and SecureStorage to handle user data locally without a backend, and includes features like login/register, home screen search, add details, and logout functionality. It also demonstrates basic state management and a user-friendly experience through thoughtful UI/UX design.
 
-## Getting Started
+- Key Features
+* Local Authentication (Login & Register)
+* Add, View, Edit, and Delete Data (CRUD)
+* Local Storage using SharedPreferences & SecureStorage
+* Search Functionality on Home Screen
+* Custom UI/UX Design
+* Local State Management
+* Logout & New User Creation Support
 
-This project is a starting point for a Flutter application.
+  
+- Tools & Technologies:
+Flutter | Dart | SharedPreferences / SecureStorage – Local data storage
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
